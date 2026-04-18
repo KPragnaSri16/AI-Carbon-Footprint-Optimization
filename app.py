@@ -10,7 +10,7 @@ import os
 
 # API KEY CHECK
 if "GOOGLE_API_KEY" not in os.environ:
-    st.error("GOOGLE_API_KEY not found. Please set it in Colab before running Streamlit.")
+    st.error("GOOGLE_API_KEY not found. Please set environment variable.")
     st.stop()
 
 st.set_page_config(page_title="Carbon Dashboard", layout="wide")
