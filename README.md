@@ -1,4 +1,4 @@
-# AI Carbon Footprint Optimization
+# CarbonWise AI – Optimization & Sustainability Intelligence System
 
 This project is an intelligent web application that analyzes individual carbon emissions and provides personalized suggestions using AI.
 
